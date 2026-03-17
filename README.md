@@ -47,6 +47,14 @@ GeeksForGeeks
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajit2004&theme=tokyo-night)
 ---
 
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/rajit2004/rajit2004/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 📚 DSA Progress Tracker
 
 Topic| Status

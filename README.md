@@ -86,7 +86,7 @@ Dynamic Programming
 
 🎯 DSA Milestones
 
-- [ ] 50 Problems
+- [x] 50 Problems
 - [ ] 100 Problems
 - [ ] 200 Problems
 - [ ] 300 Problems

@@ -15,7 +15,9 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,git,github,linux,vscode,idea" />
-</p>---
+</p>
+
+---
 
 🧠 Coding Profiles
 
@@ -82,11 +84,11 @@ Dynamic Programming
 
 🎯 DSA Milestones
 
-🥉 First 50 Problems
-⬜ 100 Problems
-⬜ 200 Problems
-⬜ 300 Problems
-⬜ 500 Problems
+- [ ] 50 Problems
+- [ ] 100 Problems
+- [ ] 200 Problems
+- [ ] 300 Problems
+- [ ] 500 Problems
 
 ---
 

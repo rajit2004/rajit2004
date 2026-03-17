@@ -62,25 +62,44 @@ GeeksForGeeks
 📚 DSA Progress Tracker
 
 Arrays
-🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%
+
+- [x] Started
+- [ ] Completed
 
 Linked Lists
-🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%
+
+- [x] Started
+- [ ] Completed
 
 Stacks
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+- [ ] Started
+- [ ] Completed
 
 Queues
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+- [ ] Started
+- [ ] Completed
 
 Trees
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+- [ ] Started
+- [ ] Completed
 
 Graphs
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+- [ ] Started
+- [ ] Completed
 
 Dynamic Programming
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+- [ ] Started
+- [ ] Completed
+
+Greedy Algorithms
+
+- [ ] Started
+- [ ] Completed
 
 ---
 

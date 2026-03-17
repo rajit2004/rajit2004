@@ -57,31 +57,42 @@ GeeksForGeeks
 
 📚 DSA Progress Tracker
 
-Topic| Status
-Arrays| 🟡 Learning
-Linked Lists| 🟡 Learning
-Stacks| 🔲 Planned
-Queues| 🔲 Planned
-Trees| 🔲 Planned
-Graphs| 🔲 Planned
-Dynamic Programming| 🔲 Planned
-Greedy Algorithms| 🔲 Planned
+Arrays
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%
+
+Linked Lists
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%
+
+Stacks
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+Queues
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+Trees
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+Graphs
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+Dynamic Programming
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+---
+
+🎯 DSA Milestones
+
+🥉 First 50 Problems
+⬜ 100 Problems
+⬜ 200 Problems
+⬜ 300 Problems
+⬜ 500 Problems
 
 ---
 
 🚀 Featured Projects
 
-Student Performance Predictor
-
-Machine learning project predicting student academic performance.
-
-DSA in Java
-
-Implementation of major data structures and algorithms in Java.
-
-Drone Project
-
-Hardware + programming project using brushless motors and control systems.
+(Projects coming soon — currently building and refining them.).
 
 ---
 

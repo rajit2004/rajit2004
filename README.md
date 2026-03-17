@@ -1,16 +1,52 @@
-## Hi there 👋
+Hi 👋 I'm Ranesh
 
-<!--
-**rajit2004/rajit2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student
+💻 Passionate about Java, Data Structures & Algorithms
+🚀 Currently learning DSA in Java and building real projects
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+- 🌱 Currently focusing on Data Structures & Algorithms in Java
+- 💡 Interested in Software Development & Problem Solving
+- 🧠 Learning System Design and Backend Development
+- 🎯 Goal: Become a strong Software Engineer
+
+---
+
+🚀 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,git,github,linux,vscode,idea" />---
+
+📊 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight)
+
+---
+
+🔥 GitHub Streak
+
+"GitHub Streak" (https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)
+
+---
+
+🧠 Currently Learning
+
+- Data Structures
+- Algorithms
+- Object Oriented Programming
+- Backend Development
+
+---
+
+📫 Connect With Me
+
+GitHub: https://github.com/rajit2004
+
+---
+
+⭐ “Consistency beats intensity.”

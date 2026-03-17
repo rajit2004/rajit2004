@@ -19,21 +19,29 @@
 
 🧠 Coding Profiles
 
+LeetCode
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rajit2004?theme=dark&font=baloo&ext=heatmap)
 ---
 
+GeeksForGeeks
 [![GFG Profile](https://geeks-for-geeks-stats-card.vercel.app/?username=rajit2004)](https://auth.geeksforgeeks.org/user/rajit2004)
 
 ---
+
+📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight)
 
 ---
+🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)
 ---
+
+📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajit2004&theme=tokyo-night)
 ---

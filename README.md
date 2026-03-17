@@ -20,17 +20,15 @@ Hi 👋 I'm Ranesh
 
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,git,github,linux,vscode,idea" />---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight)
 
----
+## 🔥 GitHub Streak
 
-🔥 GitHub Streak
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)
 
 ---
 

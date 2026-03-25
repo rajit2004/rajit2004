@@ -3,12 +3,14 @@
 </p>
 
 ---
+
 ## 👋 Hi, I'm Ranesh Rajit
 
 * 🎓 B.Tech Computer Science Student
 * 💻 Focused on **Java, Data Structures & Algorithms**
 * 🚀 Building projects and solving coding problems
 * 🎯 Goal: Become a strong **Software Engineer**
+
 ---
 
 ## 🚀 Tech Stack
@@ -32,115 +34,108 @@
 </p>
 
 ---
-## 📖 Currently Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,postman,mongodb" />
+## 📖 Currently Learning (Tech)
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,postman,mongodb"/>
 </p>
 
+---
+
+## 🧠 Coding Profiles
+
+### LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajit2004?theme=dark\&font=baloo\&ext=heatmap)
+
+### GeeksforGeeks
+
+[![GFG Profile](https://geeks-for-geeks-stats-card.vercel.app/?username=raneshv02z)](https://www.geeksforgeeks.org/profile/raneshv02z)
 
 ---
 
-🧠 Coding Profiles
+## 📊 GitHub Stats
 
-LeetCode
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajit2004\&show_icons=true\&theme=tokyonight)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajit2004?theme=dark&font=baloo&ext=heatmap)
----
-
-GeeksForGeeks
-
-[![GFG Profile](https://geeks-for-geeks-stats-card.vercel.app/?username=raneshv02z)](https://auth.geeksforgeeks.org/user/rajit2004)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajit2004\&layout=compact\&theme=tokyonight)
 
 ---
 
-📊 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajit2004\&theme=tokyo-night)
 
 ---
 
-🔥 GitHub Streak
+## 🐍 Contribution Snake
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)
----
-
-📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajit2004&theme=tokyo-night)
----
+![Snake animation](https://raw.githubusercontent.com/rajit2004/rajit2004/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-# 🐍 Contribution Snake
+## 📚 DSA Progress Tracker
 
-![Snake animation](https://github.com/rajit2004/rajit2004/blob/output/github-contribution-grid-snake-dark.svg)
+### Arrays
 
----
+* [x] Started
+* [ ] Completed
 
-📚 DSA Progress Tracker
+### Linked Lists
 
-Arrays
+* [x] Started
+* [ ] Completed
 
-- [x] Started
-- [ ] Completed
+### Stacks
 
-Linked Lists
+* [ ] Started
+* [ ] Completed
 
-- [x] Started
-- [ ] Completed
+### Queues
 
-Stacks
+* [ ] Started
+* [ ] Completed
 
-- [ ] Started
-- [ ] Completed
+### Trees
 
-Queues
+* [ ] Started
+* [ ] Completed
 
-- [ ] Started
-- [ ] Completed
+### Graphs
 
-Trees
+* [ ] Started
+* [ ] Completed
 
-- [ ] Started
-- [ ] Completed
+### Dynamic Programming
 
-Graphs
+* [ ] Started
+* [ ] Completed
 
-- [ ] Started
-- [ ] Completed
+### Greedy Algorithms
 
-Dynamic Programming
-
-- [ ] Started
-- [ ] Completed
-
-Greedy Algorithms
-
-- [ ] Started
-- [ ] Completed
+* [ ] Started
+* [ ] Completed
 
 ---
 
-🎯 DSA Milestones
+## 🎯 DSA Milestones
 
-- [x] 50 Problems
-- [ ] 100 Problems
-- [ ] 200 Problems
-- [ ] 300 Problems
-- [ ] 500 Problems
-
----
-
-🚀 Featured Projects
-
-(Projects coming soon — currently building and refining them.).
+* [x] 50 Problems
+* [ ] 100 Problems
+* [ ] 200 Problems
+* [ ] 300 Problems
+* [ ] 500 Problems
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Featured Projects
+
+*(Projects coming soon — currently building and refining them.)*
+
+---
+
+## 🌱 Currently Learning (Concepts)
 
 * 📌 Data Structures
 * 📌 Algorithms
@@ -150,10 +145,10 @@ Greedy Algorithms
 
 ---
 
-👀 Profile Views
+## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=rajit2004&color=blue)
+![](https://komarev.com/ghpvc/?username=rajit2004\&color=blue)
 
 ---
 
-⭐ Consistency beats intensity.
+⭐ **Consistency beats intensity.**

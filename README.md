@@ -24,7 +24,7 @@
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,clion,postman"/>
+<img src="https://skillicons.dev/icons?i=git ,github ,vscode ,idea ,pycharm ,clion"/>
 </p>
 
 ### ⚙️ Technologies

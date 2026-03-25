@@ -61,6 +61,11 @@ GeeksForGeeks
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight)
 
 ---
+## 📊 GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajit2004\&theme=tokyo-night)
+---
+
 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)

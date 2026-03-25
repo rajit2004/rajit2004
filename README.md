@@ -13,10 +13,24 @@
 
 ---
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,git,github,linux,vscode,pycharm,clion,idea" />
+### 🧑‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,clion,postman"/>
+</p>
+
+### ⚙️ Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,linux"/>
 </p>
 
 ---

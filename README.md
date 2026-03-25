@@ -3,14 +3,12 @@
 </p>
 
 ---
+## 👋 Hi, I'm Ranesh Rajit
 
-👋 Hi, I'm Ranesh Rajit
-
-🎓 B.Tech Computer Science Student
-💻 Focused on Java, Data Structures & Algorithms
-🚀 Building projects and solving coding problems
-🎯 Goal: Become a strong Software Engineer
-
+* 🎓 B.Tech Computer Science Student
+* 💻 Focused on **Java, Data Structures & Algorithms**
+* 🚀 Building projects and solving coding problems
+* 🎯 Goal: Become a strong **Software Engineer**
 ---
 
 ## 🚀 Tech Stack

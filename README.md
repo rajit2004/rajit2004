@@ -37,7 +37,7 @@
 ## 📖 Currently Learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,postman,mysql,mongodb,docker" />
+<img src="https://skillicons.dev/icons?i=spring,postman,mongodb" />
 </p>
 
 

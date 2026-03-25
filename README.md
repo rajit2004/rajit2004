@@ -139,12 +139,13 @@ Greedy Algorithms
 
 ---
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
-• Data Structures
-• Algorithms
-• Object Oriented Programming
-• Backend Development
+📌 Data Structures
+📌 Algorithms
+📌 Dynamic Programming
+📌 Object Oriented Programming
+📌 Backend Development
 
 ---
 

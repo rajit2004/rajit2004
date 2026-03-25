@@ -34,16 +34,14 @@
 </p>
 
 ---
-
 ## 📖 Currently Learning
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-* 🌱 Spring Boot
-* 🔗 REST APIs
-* 🗄️ Databases (Advanced)
 
 ---
 

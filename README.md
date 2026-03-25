@@ -35,6 +35,18 @@
 
 ---
 
+## 📖 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+* 🌱 Spring Boot
+* 🔗 REST APIs
+* 🗄️ Databases (Advanced)
+
+---
+
 🧠 Coding Profiles
 
 LeetCode

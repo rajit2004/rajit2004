@@ -50,10 +50,9 @@ LeetCode
 
 
 
-### GeeksforGeeks
+### 🟢 GeeksforGeeks
 
-[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=raneshv02z)(https://www.geeksforgeeks.org/profile/raneshv02z))]
-
+[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=raneshv02z)](https://www.geeksforgeeks.org/profile/raneshv02z)
 
 ---
 

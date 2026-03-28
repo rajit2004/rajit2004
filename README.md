@@ -50,13 +50,9 @@ LeetCode
 
 
 
-## 🟢 GeeksforGeeks
+### GeeksforGeeks
 
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/raneshv02z">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=raneshv02z)](https://auth.geeksforgeeks.org/user/raneshv02z/)
 
 ---
 

@@ -56,11 +56,15 @@ LeetCode
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-master-rajit2004s-projects.vercel.app/api?username=rajit2004\&show_icons=true\&theme=tokyonight\&cache_seconds=1800\&v=2)
+<p align="center">
+  <img src="https://github-readme-stats-git-master-rajit2004s-projects.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight&cache_seconds=1800&v=3" />
+</p>
 
-![Top Languages](https://github-readme-stats-git-master-rajit2004s-projects.vercel.app/api/top-langs/?username=rajit2004\&layout=compact\&theme=tokyonight\&cache_seconds=1800\&v=2)
+<p align="center">
+  <img src="https://github-readme-stats-git-master-rajit2004s-projects.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight&cache_seconds=1800&v=3" />
+</p>
 
 ---
 

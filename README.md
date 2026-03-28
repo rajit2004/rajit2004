@@ -52,7 +52,7 @@ LeetCode
 
 ### GeeksforGeeks
 
-[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=raneshv02z)](https://auth.geeksforgeeks.org/user/raneshv02z/)
+[![GeeksforGeeks Stats](https://geeks-for-geeks-stats-card.vercel.app/raneshv02z?theme=dark)](https://www.geeksforgeeks.org/profile/raneshv02z)
 
 ---
 

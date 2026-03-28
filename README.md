@@ -48,9 +48,14 @@ LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rajit2004?theme=dark&font=baloo&ext=heatmap)
 ---
 
-GeeksForGeeks
 
-[![GFG Profile](https://geeks-for-geeks-stats-card.vercel.app/?username=raneshv02z)]
+
+## 🟢 GeeksforGeeks
+
+<a href="https://www.geeksforgeeks.org/profile/raneshv02z">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?logo=geeksforgeeks" />
+</a>
+
 
 ---
 

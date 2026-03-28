@@ -57,10 +57,16 @@ LeetCode
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats-git-master-rajit2004s-projects.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight&v=5"/>
-  <img height="150" src="https://github-readme-stats-git-master-rajit2004s-projects.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight&v=5"/>
+  <!-- Main (your Vercel) -->
+  <img height="150" src="https://github-readme-stats-git-master-rajit2004s-projects.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight" />
+
+  <!-- Fallback (official) -->
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight" />
 </p>
+
 ---
 
 🔥 GitHub Streak

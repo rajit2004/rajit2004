@@ -58,9 +58,11 @@ LeetCode
 
 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-master-rajit2004s-projects.vercel.app/api?username=rajit2004\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-master-rajit2004s-projects.vercel.app/api/top-langs/?username=rajit2004\&layout=compact\&theme=tokyonight\&cache_seconds=1800)
+
 ---
 
 🔥 GitHub Streak

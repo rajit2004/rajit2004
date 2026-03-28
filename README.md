@@ -60,6 +60,7 @@ LeetCode
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_border=true&border_radius=10"/>
+  <br>
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 

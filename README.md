@@ -50,7 +50,7 @@ LeetCode
 
 GeeksForGeeks
 
-[![GFG Profile](https://geeks-for-geeks-stats-card.vercel.app/?username=raneshv02z)](https://auth.geeksforgeeks.org/user/rajit2004)
+[![GFG Profile](https://geeks-for-geeks-stats-card.vercel.app/?username=raneshv02z)]
 
 ---
 

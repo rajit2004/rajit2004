@@ -43,18 +43,12 @@
 
 🧠 Coding Profiles
 
-LeetCode
+### LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rajit2004?theme=dark&font=baloo&ext=heatmap)
 ---
 
 
-
-### GeeksforGeeks
-
-[![GeeksforGeeks Stats](https://geeks-for-geeks-stats-card.vercel.app/raneshv02z?theme=dark)](https://www.geeksforgeeks.org/profile/raneshv02z)
-
----
 
 ## 📊 GitHub Stats
 

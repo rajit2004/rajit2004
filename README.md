@@ -79,47 +79,19 @@
 
 ---
 
-📚 DSA Progress Tracker
 
-Arrays
+## 📈 DSA Progress
 
-- [x] Started
-- [ ] Completed
-
-Linked Lists
-
-- [x] Started
-- [ ] Completed
-
-Stacks
-
-- [ ] Started
-- [ ] Completed
-
-Queues
-
-- [ ] Started
-- [ ] Completed
-
-Trees
-
-- [ ] Started
-- [ ] Completed
-
-Graphs
-
-- [ ] Started
-- [ ] Completed
-
-Dynamic Programming
-
-- [ ] Started
-- [ ] Completed
-
-Greedy Algorithms
-
-- [ ] Started
-- [ ] Completed
+| Topic | Status | Problems Solved |
+|---|---|---|
+| Java Basics | ✅ Done | — |
+| Arrays & ArrayList | ✅ Done | [X] |
+| Searching & Sorting | ✅ Done | [X] |
+| Recursion | 🔄 In Progress | [X] |
+| Linked Lists | 🔜 Up Next | — |
+| Trees | 🔜 Upcoming | — |
+| Graphs | 🔜 Upcoming | — |
+| Dynamic Programming | 🔜 Upcoming | — |
 
 ---
 
@@ -136,16 +108,6 @@ Greedy Algorithms
 🚀 Featured Projects
 
 (Projects coming soon — currently building and refining them.).
-
----
-
-## 🌱 Currently Learning
-
-* 📌 Data Structures
-* 📌 Algorithms
-* 📌 Dynamic Programming
-* 📌 Object Oriented Programming
-* 📌 Backend Development
 
 ---
 

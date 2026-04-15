@@ -84,10 +84,10 @@
 
 | Topic | Status | Problems Solved |
 |---|---|---|
-| Java Basics | ✅ Done | — |
-| Arrays & ArrayList | ✅ Done | [X] |
-| Searching & Sorting | ✅ Done | [X] |
-| Recursion | 🔄 In Progress | [X] |
+| Java Basics | ✅ Done | 4 |
+| Arrays & ArrayList | ✅ Done | 17 |
+| Searching & Sorting | ✅ Done | 25 |
+| Recursion | 🔄 In Progress | — |
 | Linked Lists | 🔜 Up Next | — |
 | Trees | 🔜 Upcoming | — |
 | Graphs | 🔜 Upcoming | — |

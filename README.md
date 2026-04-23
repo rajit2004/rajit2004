@@ -1,84 +1,66 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ranesh+Rajit;Java+Developer;DSA+Enthusiast;Future+Software+Engineer"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ranesh+Rajit;Java+Developer;DSA+Enthusiast;Future+Software+Engineer)](https://git.io/typing-svg)
+
+<div align="center">
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/rajit2004?style=for-the-badge&logo=githubsponsors&color=EA4AAA)](https://github.com/sponsors/rajit2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ranesh--kun-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ranesh-kun)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rajit2004-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/rajit2004)
+
+</div>
 
 ---
+
 ## 👋 Hi, I'm Ranesh Rajit
 
-* 🎓 B.Tech Computer Science Student
-* 💻 Focused on **Java, Data Structures & Algorithms**
-* 🚀 Building projects and solving coding problems
-* 🎯 Goal: Become a strong **Software Engineer**
+- 🎓 B.Tech Computer Science Student from India
+- 💻 Focused on **Java, Data Structures & Algorithms**
+- 🌱 Learning in public — every problem I solve goes into my [public repo](https://github.com/rajit2004/java_progress)
+- 🚀 Building real projects and solving coding problems daily
+- 🎯 Goal: Become a strong **Software Engineer**
+
 ---
 
 ## 🚀 Tech Stack
 
 ### 🧑‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python"/>
-</p>
+[![Languages](https://skillicons.dev/icons?i=java,cpp,c,python)](https://skillicons.dev)
 
 ### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,clion,webstorm"/>
-</p>
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,clion,webstorm)](https://skillicons.dev)
 
 ### ⚙️ Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,linux"/>
-</p>
-
----
-## 📖 Currently Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,postman,mongodb" />
-</p>
-
+[![Tech](https://skillicons.dev/icons?i=html,css,js,mysql,linux)](https://skillicons.dev)
 
 ---
 
-🧠 Coding Profiles
+## 🚀 Featured Projects
 
-### LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajit2004?theme=dark&font=baloo&ext=heatmap)
----
-
-
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_border=true&border_radius=10"/>
-  <br>
-  <br>
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
----
-
-🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)
----
-
-📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajit2004&theme=tokyo-night)
----
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🐾 Animal Disease Predictor</h3>
+      <p>ML-based web app that predicts animal diseases using symptom severity with probability insights, PDF reports, and case tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
+        <img src="https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit"/>
+        <img src="https://img.shields.io/badge/RandomForest-orange?style=flat"/>
+      </p>
+      <a href="https://github.com/rajit2004/animal-disease-predictor">📂 Repo</a> · <a href="https://animal-disease-predictor.streamlit.app/">🔗 Live Demo</a>
+    </td>
+    <td width="50%">
+      <h3>☕ Java + DSA Progress</h3>
+      <p>My complete Java & DSA learning journey documented in public — 46+ problems solved across arrays, sorting, searching and more.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
+        <img src="https://img.shields.io/badge/DSA-green?style=flat"/>
+        <img src="https://img.shields.io/badge/Open Source-blue?style=flat"/>
+      </p>
+      <a href="https://github.com/rajit2004/java_progress">📂 Repo</a>
+    </td>
+  </tr>
+</table>
 
 ---
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/rajit2004/rajit2004/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 
 ## 📈 DSA Progress
 
@@ -93,28 +75,83 @@
 | Graphs | 🔜 Upcoming | — |
 | Dynamic Programming | 🔜 Upcoming | — |
 
----
-
-🎯 DSA Milestones
-
-- [x] 50 Problems
-- [ ] 100 Problems
-- [ ] 200 Problems
-- [ ] 300 Problems
-- [ ] 500 Problems
+**Total: 46+ problems solved**
 
 ---
 
-🚀 Featured Projects
+## 🎯 DSA Milestones
 
-(Projects coming soon — currently building and refining them.).
+- [x] 10 Problems Solved
+- [x] 25 Problems Solved
+- [x] 46 Problems Solved
+- [ ] 100 Problems Solved
+- [ ] 200 Problems Solved
+- [ ] 300 Problems Solved
+- [ ] 500 Problems Solved
 
 ---
 
-👀 Profile Views
+## 📖 Currently Learning
 
-![](https://komarev.com/ghpvc/?username=rajit2004&color=blue)
+- 📌 Data Structures & Algorithms (Java)
+- 📌 Recursion & Backtracking
+- 📌 Object Oriented Programming
+- 📌 Spring Boot & Backend Development
 
 ---
 
-⭐ Consistency beats intensity.
+## 🧠 Coding Profiles
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rajit2004?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/rajit2004)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_border=true&border_radius=10)](https://github.com/rajit2004)
+
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/rajit2004)
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajit2004&theme=tokyo-night)](https://github.com/rajit2004)
+
+---
+
+## 🐍 Contribution Snake
+
+[![Snake animation](https://github.com/rajit2004/rajit2004/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/rajit2004/rajit2004/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 💖 Support My Work
+
+I learn and build completely in the open — everything I make is free for everyone. If you'd like to support my journey:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/rajit2004)
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rajit2004&color=blue)](https://github.com/rajit2004)
+
+⭐ **Consistency beats intensity.**
+
+</div>

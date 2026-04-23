@@ -31,6 +31,49 @@
 ### ⚙️ Technologies
 [![Tech](https://skillicons.dev/icons?i=html,css,js,mysql,linux)](https://skillicons.dev)
 
+### 📖 Currently Learning
+[![Learning](https://skillicons.dev/icons?i=spring,postman,mongodb)](https://skillicons.dev)
+
+---
+
+## 🧠 Coding Profiles
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rajit2004?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/rajit2004)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_border=true&border_radius=10)](https://github.com/rajit2004)
+
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/rajit2004)
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajit2004&theme=tokyo-night)](https://github.com/rajit2004)
+
+---
+
+## 🐍 Contribution Snake
+
+[![Snake animation](https://github.com/rajit2004/rajit2004/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/rajit2004/rajit2004/blob/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## 🚀 Featured Projects
@@ -88,55 +131,6 @@
 - [ ] 200 Problems Solved
 - [ ] 300 Problems Solved
 - [ ] 500 Problems Solved
-
----
-
-## 📖 Currently Learning
-
-- 📌 Data Structures & Algorithms (Java)
-- 📌 Recursion & Backtracking
-- 📌 Object Oriented Programming
-- 📌 Spring Boot & Backend Development
-
----
-
-## 🧠 Coding Profiles
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rajit2004?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/rajit2004)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_border=true&border_radius=10)](https://github.com/rajit2004)
-
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/rajit2004)
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajit2004&theme=tokyo-night)](https://github.com/rajit2004)
-
----
-
-## 🐍 Contribution Snake
-
-[![Snake animation](https://github.com/rajit2004/rajit2004/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/rajit2004/rajit2004/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 

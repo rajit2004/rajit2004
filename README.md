@@ -101,6 +101,25 @@
       <a href="https://github.com/rajit2004/java_progress">📂 Repo</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>📊 YouTube Analytics Tracker</h3>
+      <p>Tracks daily YouTube channel stats — subscribers, views, Longs vs Shorts — and auto-generates Excel reports and charts using YouTube Data API v3.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
+        <img src="https://img.shields.io/badge/YouTube API-red?style=flat&logo=youtube"/>
+        <img src="https://img.shields.io/badge/Pandas-green?style=flat"/>
+      </p>
+      <a href="https://github.com/rajit2004/yt-analytics-tracker">📂 Repo</a>
+    </td>
+    <td width="50%">
+      <h3>🚀 More Coming Soon...</h3>
+      <p>Currently building and refining new projects. Stay tuned!</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In Progress-yellow?style=flat"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---

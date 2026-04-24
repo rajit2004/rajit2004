@@ -88,8 +88,22 @@
         <img src="https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit"/>
         <img src="https://img.shields.io/badge/RandomForest-orange?style=flat"/>
       </p>
-      <a href="https://github.com/rajit2004/animal-disease-predictor">📂 Repo</a> · <a href="https://animal-disease-predictor.streamlit.app/">🔗 Live Demo</a>
+      <a href="https://github.com/rajit2004/animal-disease-predictor">📂 Repo</a> · 
+      <a href="https://animal-disease-predictor.streamlit.app/">🔗 Live Demo</a>
     </td>
+    <td width="50%">
+      <h3>🎓 Student Performance Prediction System</h3>
+      <p>ML-powered dashboard that predicts student performance using academic and behavioral data with admin analytics, heatmaps, and search functionality.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
+        <img src="https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit"/>
+        <img src="https://img.shields.io/badge/Random Forest-green?style=flat"/>
+      </p>
+      <a href="https://github.com/rajit2004/student-performance-prediction">📂 Repo</a> · 
+      <a href="https://student-performance-prediction-22fspy6pymbcfcwxbqdmo6.streamlit.app">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>☕ Java + DSA Progress</h3>
       <p>My complete Java & DSA learning journey documented in public — 46+ problems solved across arrays, sorting, searching and more.</p>
@@ -100,8 +114,6 @@
       </p>
       <a href="https://github.com/rajit2004/java_progress">📂 Repo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>📊 YouTube Analytics Tracker</h3>
       <p>Tracks daily YouTube channel stats — subscribers, views, Longs vs Shorts — and auto-generates Excel reports and charts using YouTube Data API v3.</p>
@@ -112,6 +124,8 @@
       </p>
       <a href="https://github.com/rajit2004/yt-analytics-tracker">📂 Repo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🚀 More Coming Soon...</h3>
       <p>Currently building and refining new projects. Stay tuned!</p>
@@ -119,6 +133,7 @@
         <img src="https://img.shields.io/badge/Status-In Progress-yellow?style=flat"/>
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 

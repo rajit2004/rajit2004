@@ -145,7 +145,7 @@
 
 - [x] 10 Problems Solved
 - [x] 25 Problems Solved
-- [x] 46 Problems Solved
+- [x] 50 Problems Solved
 - [ ] 100 Problems Solved
 - [ ] 200 Problems Solved
 - [ ] 300 Problems Solved

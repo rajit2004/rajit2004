@@ -127,13 +127,23 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3>⚡ LeetCode Progress Tracker</h3>
+      <p>Personal LeetCode tracker that fetches daily stats via the GraphQL API, saves history to CSV, and visualises progress with an interactive Streamlit dashboard — daily submission charts, heatmap, topic bubbles, and streak tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
+        <img src="https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit"/>
+        <img src="https://img.shields.io/badge/Plotly-purple?style=flat"/>
+        <img src="https://img.shields.io/badge/GraphQL-pink?style=flat&logo=graphql"/>
+      </p>
+      <a href="https://github.com/rajit2004/LeetCode-Tracker">📂 Repo</a>
+    </td>
+    <td width="50%">
       <h3>🚀 More Coming Soon...</h3>
       <p>Currently building and refining new projects. Stay tuned!</p>
       <p>
         <img src="https://img.shields.io/badge/Status-In Progress-yellow?style=flat"/>
       </p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 

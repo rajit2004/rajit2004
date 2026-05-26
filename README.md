@@ -153,21 +153,23 @@
 </table>
 
 ---
-
 ## 📈 DSA Progress
 
 | Topic | Status | Problems Solved |
 |---|---|---|
 | Java Basics | ✅ Done | 4 |
-| Arrays & ArrayList | ✅ Done | 17 |
-| Searching & Sorting | ✅ Done | 25 |
+| Arrays & ArrayList | ✅ Done | 24 |
+| Strings | ✅ Done | 24 |
+| Searching & Sorting | ✅ Done | 22 |
+| Binary Search | ✅ Done | 20 |
+| Bit Manipulation | ✅ Done | 3 |
 | Recursion | 🔄 In Progress | — |
 | Linked Lists | 🔜 Up Next | — |
 | Trees | 🔜 Upcoming | — |
 | Graphs | 🔜 Upcoming | — |
 | Dynamic Programming | 🔜 Upcoming | — |
 
-**Total: 46+ problems solved**
+**Total: 81 problems solved · Easy 61 · Med 15 · Hard 5**
 
 ---
 
@@ -176,6 +178,7 @@
 - [x] 10 Problems Solved
 - [x] 25 Problems Solved
 - [x] 50 Problems Solved
+- [x] 75 Problems Solved
 - [ ] 100 Problems Solved
 - [ ] 200 Problems Solved
 - [ ] 300 Problems Solved

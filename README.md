@@ -82,6 +82,29 @@
 <table>
   <tr>
     <td width="50%">
+      <h3>🐳 DeepSeek Android Widget</h3>
+      <p>Open-source Android home screen widget for one-tap access to DeepSeek — tap to chat or use voice input, without unlocking the app. Built in Kotlin with Material You design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin"/>
+        <img src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat&logo=android"/>
+        <img src="https://img.shields.io/badge/MIT-yellow?style=flat"/>
+      </p>
+      <a href="https://github.com/rajit2004/DeepSeekWidget">📂 Repo</a> ·
+      <a href="https://github.com/rajit2004/DeepSeekWidget/releases">📦 Download APK</a>
+    </td>
+    <td width="50%">
+      <h3>☕ Java + DSA Progress</h3>
+      <p>Complete Java & DSA learning journey documented in public — 81 problems solved across arrays, binary search, strings, sorting, bit manipulation and more.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
+        <img src="https://img.shields.io/badge/DSA-green?style=flat"/>
+        <img src="https://img.shields.io/badge/Open Source-blue?style=flat"/>
+      </p>
+      <a href="https://github.com/rajit2004/java_progress">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🐾 Animal Disease Predictor</h3>
       <p>ML-based web app that predicts animal diseases using symptom severity with probability insights, PDF reports, and case tracking.</p>
       <p>
@@ -93,7 +116,7 @@
       <a href="https://animal-disease-predictor.streamlit.app/">🔗 Live Demo</a>
     </td>
     <td width="50%">
-      <h3>🎓 Student Performance Prediction System</h3>
+      <h3>🎓 Student Performance Prediction</h3>
       <p>ML-powered dashboard that predicts student performance using academic and behavioral data with admin analytics, heatmaps, and search functionality.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
@@ -106,14 +129,15 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>☕ Java + DSA Progress</h3>
-      <p>My complete Java & DSA learning journey documented in public — 46+ problems solved across arrays, sorting, searching and more.</p>
+      <h3>⚡ LeetCode Progress Tracker</h3>
+      <p>Personal LeetCode tracker that fetches daily stats via GraphQL API, saves history to CSV, and visualises progress with an interactive Streamlit dashboard — submission charts, heatmap, topic bubbles, and streak tracking.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
-        <img src="https://img.shields.io/badge/DSA-green?style=flat"/>
-        <img src="https://img.shields.io/badge/Open Source-blue?style=flat"/>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
+        <img src="https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit"/>
+        <img src="https://img.shields.io/badge/Plotly-purple?style=flat"/>
+        <img src="https://img.shields.io/badge/GraphQL-pink?style=flat&logo=graphql"/>
       </p>
-      <a href="https://github.com/rajit2004/java_progress">📂 Repo</a>
+      <a href="https://github.com/rajit2004/LeetCode-Tracker">📂 Repo</a>
     </td>
     <td width="50%">
       <h3>📊 YouTube Analytics Tracker</h3>
@@ -124,26 +148,6 @@
         <img src="https://img.shields.io/badge/Pandas-green?style=flat"/>
       </p>
       <a href="https://github.com/rajit2004/yt-analytics-tracker">📂 Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ LeetCode Progress Tracker</h3>
-      <p>Personal LeetCode tracker that fetches daily stats via the GraphQL API, saves history to CSV, and visualises progress with an interactive Streamlit dashboard — daily submission charts, heatmap, topic bubbles, and streak tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
-        <img src="https://img.shields.io/badge/Streamlit-red?style=flat&logo=streamlit"/>
-        <img src="https://img.shields.io/badge/Plotly-purple?style=flat"/>
-        <img src="https://img.shields.io/badge/GraphQL-pink?style=flat&logo=graphql"/>
-      </p>
-      <a href="https://github.com/rajit2004/LeetCode-Tracker">📂 Repo</a>
-    </td>
-    <td width="50%">
-      <h3>🚀 More Coming Soon...</h3>
-      <p>Currently building and refining new projects. Stay tuned!</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In Progress-yellow?style=flat"/>
-      </p>
     </td>
   </tr>
 </table>

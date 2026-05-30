@@ -74,9 +74,9 @@
 ## 🚀 Galaga Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajit2004/rajit2004/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajit2004/rajit2004/output/pacman-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/rajit2004/rajit2004/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajit2004/rajit2004/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajit2004/rajit2004/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/rajit2004/rajit2004/output/galaga-contribution-graph.svg">
 </picture>
 
 ---

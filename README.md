@@ -99,13 +99,15 @@
     </td>
     <td width="50%">
       <h3>☕ Java + DSA Progress</h3>
-      <p>Complete Java & DSA learning journey documented in public — 81 problems solved across arrays, binary search, strings, sorting, bit manipulation and more.</p>
+      <p>Complete Java & DSA learning journey documented in public — <strong>125+ problems solved</strong> across arrays, binary search, strings, recursion, bit manipulation, and LeetCode patterns. Actively updated.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java"/>
-        <img src="https://img.shields.io/badge/DSA-green?style=flat"/>
-        <img src="https://img.shields.io/badge/Open Source-blue?style=flat"/>
+        <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk"/>
+        <img src="https://img.shields.io/badge/DSA-00599C?style=flat&logo=leetcode"/>
+        <img src="https://img.shields.io/badge/Open%20Source-2ea44f?style=flat&logo=github"/>
+        <img src="https://img.shields.io/badge/Progress-125%2B-blue?style=flat&logo=bookstack"/>
       </p>
-      <a href="https://github.com/rajit2004/java_progress">📂 Repo</a>
+      <a href="https://github.com/rajit2004/java_progress">📂 Repo</a> ·
+      <a href="https://github.com/rajit2004/java_progress/tree/main/src/LeetCode">🧠 LeetCode Solutions</a>
     </td>
   </tr>
   <tr>
@@ -161,31 +163,32 @@
 
 ## 📈 DSA Progress
 
-| Topic | Status | Problems Solved |
-|---|---|---|
-| Java Basics | ✅ Done | 4 |
-| Arrays & ArrayList | ✅ Done | 24 |
-| Strings | ✅ Done | 24 |
-| Searching & Sorting | ✅ Done | 22 |
-| Binary Search | ✅ Done | 20 |
-| Bit Manipulation | ✅ Done | 3 |
-| Recursion | 🔄 In Progress | — |
-| Linked Lists | 🔜 Up Next | — |
-| Trees | 🔜 Upcoming | — |
-| Graphs | 🔜 Upcoming | — |
-| Dynamic Programming | 🔜 Upcoming | — |
-
-**Total: 81 problems solved · Easy 61 · Med 15 · Hard 5**
+| Topic | Problems Solved |
+|---|---|
+| Java Basics | 4 |
+| Arrays & ArrayList | 39 |
+| Searching & Sorting | 22 |
+| Binary Search | 13 |
+| Strings | 25 |
+| Two Pointers | 4 |
+| Sliding Window | 2 |
+| Bit Manipulation | 4 |
+| Greedy | 5 |
+| Math & Numbers | 13 |
+| Prefix Sum | 3 |
+| Hashing & Misc | 2 |
+| Trees | 1 |
+| Recursion | 5 |
+| Linked Lists | — |
+| Graphs | — |
+| Dynamic Programming | — |
 
 ---
 
 ## 🎯 DSA Milestones
 
-- [x] 10 Problems Solved
-- [x] 25 Problems Solved
 - [x] 50 Problems Solved
-- [x] 75 Problems Solved
-- [ ] 100 Problems Solved
+- [x] 100 Problems Solved
 - [ ] 200 Problems Solved
 - [ ] 300 Problems Solved
 - [ ] 500 Problems Solved

@@ -87,11 +87,12 @@
   <tr>
     <td width="50%">
       <h3>🐳 DeepSeek Android Widget</h3>
-      <p>Open-source Android home screen widget for one-tap access to DeepSeek — tap to chat or use voice input, without unlocking the app. Built in Kotlin with Material You design.</p>
+      <p>Open‑source Android home screen widget for one‑tap access to DeepSeek — chat, voice, or camera input. <strong>⭐ Featured in the DeepSeek‑V3 June 2026 Community Digest as a reference implementation for an official widget.</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin"/>
         <img src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat&logo=android"/>
         <img src="https://img.shields.io/badge/MIT-yellow?style=flat"/>
+        <img src="https://img.shields.io/badge/DeepSeek-Community%20Digest-blue?style=flat&logo=deepseek"/>
       </p>
       <a href="https://github.com/rajit2004/DeepSeekWidget">📂 Repo</a> ·
       <a href="https://github.com/rajit2004/DeepSeekWidget/releases">📦 Download APK</a>

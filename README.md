@@ -27,13 +27,16 @@
 [![Languages](https://skillicons.dev/icons?i=java,cpp,c,python)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,clion,webstorm)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,clion,webstorm,datagrip)](https://skillicons.dev)
 
 ### ⚙️ Technologies
-[![Tech](https://skillicons.dev/icons?i=html,css,js,mysql,linux)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=html,css,js,linux)](https://skillicons.dev)
+
+### 🗄️ Database
+[![Database](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
 ### 📖 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=spring,postman,mongodb)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=spring,postman,redis)](https://skillicons.dev)
 
 ---
 

@@ -62,7 +62,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajit2004&theme=tokyonight)](https://github.com/rajit2004)
+<a href="https://github.com/rajit2004">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</a>
 
 </div>
 

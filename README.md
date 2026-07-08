@@ -62,7 +62,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rajit2004&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajit2004&theme=tokyonight)](https://github.com/rajit2004)
 
 </div>
 

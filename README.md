@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ranesh+Rajit;Java+Developer;DSA+Enthusiast;Future+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ranesh+Rajit;Java+Developer;DSA+Enthusiast;Open+Source+Contributor;Future+Software+Engineer)](https://git.io/typing-svg)
 
 <div align="center">
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/rajit2004?style=for-the-badge&logo=githubsponsors&color=EA4AAA)](https://github.com/sponsors/rajit2004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ranesh--kun-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ranesh-kun)
 [![LeetCode](https://img.shields.io/badge/LeetCode-rajit2004-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/rajit2004)
-[![committers.top badge](https://user-badge.committers.top/india_private/USERNAME.svg)](https://user-badge.committers.top/india_private/rajit2004)
+[![committers.top badge](https://user-badge.committers.top/india_private/rajit2004.svg)](https://committers.top/india_private/rajit2004)
 
 </div>
 
@@ -14,8 +14,9 @@
 ## 👋 Hi, I'm Ranesh Rajit
 
 - 🎓 B.Tech Computer Science Student from India
-- 💻 Focused on **Java, Data Structures & Algorithms**
+- 💻 Focused on **Java, DSA, Spring Boot & PostgreSQL**
 - 🌱 Learning in public — every problem I solve goes into my [public repo](https://github.com/rajit2004/java_progress)
+- 🤝 Active open-source contributor — **14+ merged PRs** across multiple projects
 - 🚀 Building real projects and solving coding problems daily
 - 🎯 Goal: Become a strong **Software Engineer**
 
@@ -92,27 +93,25 @@
   <tr>
     <td width="50%">
       <h3>🐳 DeepSeek Android Widget</h3>
-      <p>Open‑source Android home screen widget for one‑tap access to DeepSeek — chat, voice, or camera input. <strong>⭐ Featured in the DeepSeek‑V3 June 2026 Community Digest as a reference implementation for an official widget.</strong></p>
+      <p>Open-source Android home screen widget for one-tap access to DeepSeek — chat, voice, or camera input. <strong>⭐ Featured in DeepSeek-V3 June 2026 Community Digest.</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin"/>
         <img src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat&logo=android"/>
         <img src="https://img.shields.io/badge/MIT-yellow?style=flat"/>
-        <img src="https://img.shields.io/badge/DeepSeek-Community%20Digest-blue?style=flat&logo=deepseek"/>
       </p>
       <a href="https://github.com/rajit2004/DeepSeekWidget">📂 Repo</a> ·
       <a href="https://github.com/rajit2004/DeepSeekWidget/releases">📦 Download APK</a>
     </td>
     <td width="50%">
-      <h3>☕ Java + DSA Progress</h3>
-      <p>Complete Java & DSA learning journey documented in public — <strong>125+ problems solved</strong> across arrays, binary search, strings, recursion, bit manipulation, and LeetCode patterns. Actively updated.</p>
+      <h3>🟣 InnerCircle</h3>
+      <p>Multi-persona AI companion app — Mom, Best Friend, Girlfriend, Big Sister. Each persona has persistent memory, real-time chat, and proactive push notifications.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk"/>
-        <img src="https://img.shields.io/badge/DSA-00599C?style=flat&logo=leetcode"/>
-        <img src="https://img.shields.io/badge/Open%20Source-2ea44f?style=flat&logo=github"/>
-        <img src="https://img.shields.io/badge/Progress-125%2B-blue?style=flat&logo=bookstack"/>
+        <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter"/>
+        <img src="https://img.shields.io/badge/Spring Boot-green?style=flat&logo=springboot"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase"/>
+        <img src="https://img.shields.io/badge/Groq-black?style=flat"/>
       </p>
-      <a href="https://github.com/rajit2004/java_progress">📂 Repo</a> ·
-      <a href="https://github.com/rajit2004/java_progress/tree/main/src/LeetCode">🧠 LeetCode Solutions</a>
+      <a href="https://github.com/rajit2004/InnerCircle">📂 Repo</a>
     </td>
   </tr>
   <tr>
@@ -152,17 +151,32 @@
       <a href="https://github.com/rajit2004/LeetCode-Tracker">📂 Repo</a>
     </td>
     <td width="50%">
-      <h3>📊 YouTube Analytics Tracker</h3>
-      <p>Tracks daily YouTube channel stats — subscribers, views, Longs vs Shorts — and auto-generates Excel reports and charts using YouTube Data API v3.</p>
+      <h3>☕ Java + DSA Progress</h3>
+      <p>Complete Java & DSA learning journey documented in public — 137+ problems solved across arrays, binary search, strings, recursion, greedy, prefix sum and more.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
-        <img src="https://img.shields.io/badge/YouTube API-red?style=flat&logo=youtube"/>
-        <img src="https://img.shields.io/badge/Pandas-green?style=flat"/>
+        <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk"/>
+        <img src="https://img.shields.io/badge/DSA-00599C?style=flat&logo=leetcode"/>
+        <img src="https://img.shields.io/badge/Open%20Source-2ea44f?style=flat&logo=github"/>
       </p>
-      <a href="https://github.com/rajit2004/yt-analytics-tracker">📂 Repo</a>
+      <a href="https://github.com/rajit2004/java_progress">📂 Repo</a> ·
+      <a href="https://github.com/rajit2004/java_progress/tree/main/src/LeetCode">🧠 LeetCode Solutions</a>
     </td>
   </tr>
 </table>
+
+---
+
+<!-- CONTRIBUTIONS_START -->
+## 🤝 Open Source Contributions
+
+> Auto-updated every 6 hours via GitHub Actions
+
+| Repository | PRs Merged | Latest Contribution | Date |
+|------------|:----------:|---------------------|------|
+| [ishita2740/Rhythma](https://github.com/ishita2740/Rhythma) | 9 | feat: scaffold web application with JWT authentication and protected routes | 2026-07 |
+| [vishnukothakapu/linkid](https://github.com/vishnukothakapu/linkid) | 4 | feat: replace magic strings with PLATFORMS constants | 2026-06 |
+| [madhav2348/ss_ai](https://github.com/madhav2348/ss_ai) | 1 | feat: add OCR worker stub | 2026-06 |
+<!-- CONTRIBUTIONS_END -->
 
 ---
 
@@ -188,10 +202,14 @@
 | Graphs | — |
 | Dynamic Programming | — |
 
+**Total: 137+ problems solved**
+
 ---
 
 ## 🎯 DSA Milestones
 
+- [x] 10 Problems Solved
+- [x] 25 Problems Solved
 - [x] 50 Problems Solved
 - [x] 100 Problems Solved
 - [ ] 200 Problems Solved

@@ -168,6 +168,8 @@
 <!-- CONTRIBUTIONS_START -->
 ## 🤝 Open Source Contributions
 
+> 📋 Full contribution history → [rajit2004/open-source-contributions](https://github.com/rajit2004/open-source-contributions)
+
 > **19 merged PRs** across **5 repositories** · Auto-updated 21 Jul 2026, 18:37 UTC
 
 | Repository | PRs Merged | Latest Contribution | Date |

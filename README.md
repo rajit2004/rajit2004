@@ -5,7 +5,6 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/rajit2004?style=for-the-badge&logo=githubsponsors&color=EA4AAA)](https://github.com/sponsors/rajit2004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ranesh--kun-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ranesh-kun)
 [![LeetCode](https://img.shields.io/badge/LeetCode-rajit2004-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/rajit2004)
-[![committers.top badge](https://user-badge.committers.top/india_private/rajit2004.svg)](https://committers.top/india_private/rajit2004)
 
 </div>
 

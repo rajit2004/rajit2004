@@ -10,7 +10,7 @@ Runs via GitHub Actions — needs GITHUB_TOKEN secret.
 import os
 import re
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 
 USERNAME   = "rajit2004"
 README     = "README.md"
@@ -97,7 +97,7 @@ def build_section(prs: list[dict]) -> str:
         )
 
     total = sum(len(v) for v in by_repo.values())
-    updated = datetime.utcnow().strftime("%d %b %Y, %H:%M UTC")
+    updated = datetime.now(timezone.utc).strftime("%d %b %Y, %H:%M UTC")
 
     table = "\n".join(rows)
     return f"""<!-- CONTRIBUTIONS_START -->

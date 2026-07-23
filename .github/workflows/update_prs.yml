@@ -1,18 +1,13 @@
-# .github/workflows/update_prs.yml
-# Place in: rajit2004/rajit2004/.github/workflows/update_prs.yml
-#
-# Fetches all merged PRs on external repos and updates
-# the Open Source Contributions section in profile README.
-
 name: Update Open Source Contributions
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
-  workflow_dispatch:          # manual trigger
+    - cron: "0 */1 * * *"
+  workflow_dispatch:
 
 jobs:
   update-contributions:
+    if: github.event_name != 'push' || github.event.head_commit.author.name != 'github-actions[bot]'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -42,4 +37,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --staged --quiet || git commit -m "🤝 Auto-update open source contributions"
-          git push
+          git pull --rebase origin main
+          git push origin main

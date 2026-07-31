@@ -15,7 +15,8 @@
 - 🎓 B.Tech Computer Science Student from India
 - 💻 Focused on **Java, DSA, Spring Boot & PostgreSQL**
 - 🌱 Learning in public — every problem I solve goes into my [public repo](https://github.com/rajit2004/java_progress)
-- 🤝 Active open-source contributor — **14+ merged PRs** across multiple projects
+- 🤝 Active open-source contributor
+- 📋 Full contribution history → [rajit2004/open-source-contributions](https://github.com/rajit2004/open-source-contributions)
 - 🚀 Building real projects and solving coding problems daily
 - 🎯 Goal: Become a strong **Software Engineer**
 

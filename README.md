@@ -16,6 +16,7 @@
 - 💻 Focused on **Java, DSA, Spring Boot & PostgreSQL**
 - 🌱 Learning in public — every problem I solve goes into my [public repo](https://github.com/rajit2004/java_progress)
 - 🤝 Active open-source contributor
+- 🌐 My portfolio → [rajit2004.github.io](https://rajit2004.github.io/)
 - 📋 Full contribution history → [rajit2004/open-source-contributions](https://github.com/rajit2004/open-source-contributions)
 - 🚀 Building real projects and solving coding problems daily
 - 🎯 Goal: Become a strong **Software Engineer**

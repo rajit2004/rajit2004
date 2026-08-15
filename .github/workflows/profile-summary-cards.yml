@@ -1,0 +1,26 @@
+# Generates GitHub stats cards as static SVGs, no Vercel dependency.
+
+name: Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  push:
+    paths:
+      - ".github/workflows/profile-summary-cards.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user: rajit2004
+          theme: tokyonight
+          template: classic

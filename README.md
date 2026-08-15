@@ -52,9 +52,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rajit2004&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_border=true&border_radius=10)](https://github.com/rajit2004)
-
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajit2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/rajit2004)
+<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/output/github-metrics.svg" alt="GitHub Stats" />
 
 </div>
 

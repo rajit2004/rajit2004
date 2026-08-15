@@ -52,7 +52,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/output/github-metrics.svg" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/tokyonight/3-stats.svg" />
 
 </div>
 

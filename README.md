@@ -52,9 +52,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
-<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/ayu_mirage/0-profile-details.svg" />
+<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" />
+<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/ayu_mirage/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/rajit2004/rajit2004/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg" />
 
 </div>
 

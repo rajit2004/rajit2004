@@ -74,12 +74,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajit2004&theme=tokyo-night)](https://github.com/rajit2004)
-
----
-
 ## 🚀 Galaga Contribution Graph
 
 <picture>

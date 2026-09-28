@@ -90,7 +90,7 @@
   <tr>
     <td width="50%">
       <h3>🐳 DeepSeek Android Widget</h3>
-      <p>Open-source Android home screen widget for one-tap access to DeepSeek — chat, voice, or camera input. <strong>⭐ Featured in DeepSeek-V3 June 2026 Community Digest.</strong></p>
+      <p>Open-source Android home screen widget for one-tap access to DeepSeek — chat, voice, or camera input. <strong>⭐ Featured in DeepSeek's official community digest.</strong> 1,490+ repository clones.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-purple?style=flat&logo=kotlin"/>
         <img src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat&logo=android"/>
@@ -99,6 +99,19 @@
       <a href="https://github.com/rajit2004/DeepSeekWidget">📂 Repo</a> ·
       <a href="https://github.com/rajit2004/DeepSeekWidget/releases">📦 Download APK</a>
     </td>
+    <td width="50%">
+      <h3>📈 FinTech Volatility Forecaster</h3>
+      <p>Forecasts market volatility with Random Forest and LSTM, then backtests algorithmic trading strategies with Sharpe ratio and drawdown metrics. Flask REST API, Streamlit dashboard, and PostgreSQL storage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn"/>
+        <img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql"/>
+      </p>
+      <a href="https://github.com/rajit2004/FinTech-VolatilityForecasting-AlgorithmicStrategyBacktester">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🟣 InnerCircle</h3>
       <p>Multi-persona AI companion app — Mom, Best Friend, Girlfriend, Big Sister. Each persona has persistent memory, real-time chat, and proactive push notifications.</p>
@@ -110,8 +123,6 @@
       </p>
       <a href="https://github.com/rajit2004/InnerCircle">📂 Repo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🐾 Animal Disease Predictor</h3>
       <p>ML-based web app that predicts animal diseases using symptom severity with probability insights, PDF reports, and case tracking.</p>
@@ -123,6 +134,8 @@
       <a href="https://github.com/rajit2004/animal-disease-predictor">📂 Repo</a> · 
       <a href="https://animal-disease-predictor.streamlit.app/">🔗 Live Demo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🎓 Student Performance Prediction</h3>
       <p>ML-powered dashboard that predicts student performance using academic and behavioral data with admin analytics, heatmaps, and search functionality.</p>
@@ -134,8 +147,6 @@
       <a href="https://github.com/rajit2004/student-performance-prediction">📂 Repo</a> · 
       <a href="https://student-performance-prediction-22fspy6pymbcfcwxbqdmo6.streamlit.app">🔗 Live Demo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>⚡ LeetCode Progress Tracker</h3>
       <p>Personal LeetCode tracker that fetches daily stats via GraphQL API, saves history to CSV, and visualises progress with an interactive Streamlit dashboard — submission charts, heatmap, topic bubbles, and streak tracking.</p>
@@ -147,6 +158,8 @@
       </p>
       <a href="https://github.com/rajit2004/LeetCode-Tracker">📂 Repo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>☕ Java + DSA Progress</h3>
       <p>Complete Java & DSA learning journey documented in public — 137+ problems solved across arrays, binary search, strings, recursion, greedy, prefix sum and more.</p>
@@ -157,6 +170,16 @@
       </p>
       <a href="https://github.com/rajit2004/java_progress">📂 Repo</a> ·
       <a href="https://github.com/rajit2004/java_progress/tree/main/src/LeetCode">🧠 LeetCode Solutions</a>
+    </td>
+    <td width="50%">
+      <h3>📊 YouTube Analytics Tracker</h3>
+      <p>Daily YouTube channel analytics via the Data API. Splits stats into Longs vs Shorts and generates Excel reports with charts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python"/>
+        <img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=flat&logo=youtube"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+      </p>
+      <a href="https://github.com/rajit2004/yt-analytics-tracker">📂 Repo</a>
     </td>
   </tr>
 </table>
